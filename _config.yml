@@ -7,12 +7,12 @@ permalink:        pretty
 #relative_permalinks: true
 
 # Setup
-title:            Emanuele Dalsasso
-tagline:          'About me'
-description:      '<p><a href="mailto:emanuele.dalsasso@epfl.ch">emanuele.dalsasso@epfl.ch</a></p>
-                  Post-doctoral researcher at <a href="https://www.epfl.ch/labs/eceo/">EPFL</a>, Sion, Switzerland.'
-url:              http://emanueledalsasso.github.io
-baseurl:          /
+title:            Düzgün Dilsiz
+tagline:          'Personal Website'
+description:      '<p><a href="mailto:d.dilsiz@unibas.ch">d.dilsiz@unibas.ch</a></p>
+                  PhD Student at the <a href="https://www.wwz.unibas.ch">University of Basel</a>, Switzerland.'
+url:              https://d-dilsiz.github.io
+baseurl:          ""
 
 author:
   name:           'Mark Otto'
