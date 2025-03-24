@@ -59,17 +59,23 @@ html {
 }
 
 body {
-  color: #515151;
+  color: #000000;
   background-color: #fff;
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
 }
 
-/* No `:visited` state is required by default (browsers will use `a`) */
-a {
-  color: #268bd2;
+/* Remove underline for sidebar links */
+.sidebar a {
   text-decoration: none;
 }
+
+/* Ensure all other links are underlined */
+a {
+  color: #268bd2;
+  text-decoration: underline;
+}
+
 a strong {
   color: inherit;
 }
@@ -77,18 +83,20 @@ a strong {
 a:hover,
 a:focus {
   text-decoration: underline;
+  color: blue;
 }
 
 /* Headings */
 h1, h2, h3, h4, h5, h6 {
-  margin-bottom: .5rem;
+  margin-bottom: .75rem;
   font-weight: bold;
   line-height: 1.25;
-  color: #313131;
+  color: #000000;
   text-rendering: optimizeLegibility;
 }
 h1 {
-  font-size: 2rem;
+  color: black;
+  font-size: 1.875rem;
 }
 h2 {
   margin-top: 1rem;
@@ -105,12 +113,19 @@ h4, h5, h6 {
 
 /* Body text */
 p {
+  color: black;
   margin-top: 0;
   margin-bottom: 1rem;
 }
 
+/* Underline the hyperlinks without changing their color */
+a2 {
+    text-decoration: none;
+    color: black; /* Ensures the link color inherits from the parent element */
+}
+
 strong {
-  color: #303030;
+  color: #000000;
 }
 
 
@@ -337,7 +352,7 @@ tbody tr:nth-child(odd) th {
 .page-title,
 .post-title,
 .post-title a {
-  color: #303030;
+  color: #000000;
 }
 .page-title,
 .post-title {

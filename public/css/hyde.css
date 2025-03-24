@@ -36,12 +36,12 @@ html {
 }
 @media (min-width: 48em) {
   html {
-    font-size: 16px;
+    font-size: 15px;
   }
 }
 @media (min-width: 58em) {
   html {
-    font-size: 20px;
+    font-size: 18px;
   }
 }
 
@@ -70,6 +70,12 @@ html {
   }
 }
 
+.sidebar-footer {
+  font-size: 14px; /* Adjust the size as needed */
+  color: #777; /* Optional: makes it slightly lighter */
+  text-align: left; /* Optional: centers it */
+}
+
 /* Sidebar links */
 .sidebar a {
   color: #fff;
@@ -79,8 +85,8 @@ html {
 .sidebar-about h1 {
   color: #fff;
   margin-top: 0;
-  font-family: "Abril Fatface", serif;
-  font-size: 3.25rem;
+  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+  font-size: 1.8rem;
 }
 
 /* Sidebar nav */
@@ -274,11 +280,11 @@ a.sidebar-nav-item:focus {
 
 /* ED-EPFL */
 .theme-ED-EPFL .sidebar {
-  background-color: #A01C24;
+  background-color: #000000;
 }
 .theme-ED-EPFL .content a,
 .theme-ED-EPFL .related-posts li a:hover {
-  color: #A01C24;
+  color: #000000;
 }
 
 .post-date-ED-EPFL {
