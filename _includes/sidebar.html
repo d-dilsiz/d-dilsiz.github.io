@@ -1,18 +1,18 @@
 
 <div class="sidebar">
-  <div class="container sidebar-sticky">
+  <div class="container">
     <div class="sidebar-about">
-      <h2>
+      <h1>
         <a href="{{ site.url }}{{ site.baseurl }}">
           {{ site.title }}
         </a>
-      </h2>
+      </h1>
 
 
 
 
 
-      <img src="{{ 'public/Emanuele_DALSASSO_1MB.jpg' | relative_url  }}" alt="hi" class="inline"/>
+      <img src="{{ 'public/duezguen_dilsiz.jpg' | relative_url  }}" alt="hi" class="inline"/>
 
 
 
@@ -26,7 +26,7 @@
 
 
 
-      <a class="sidebar-nav-item" href="{{ site.url }}{{ site.baseurl }}">About</a>
+      <a class="sidebar-nav-item" href="{{ site.url }}{{ site.baseurl }}">About me</a>
 
       {% comment %}
         The code below dynamically generates a sidebar nav of pages with
@@ -47,7 +47,7 @@
     </nav>
 
 
-    <p>&copy; Last updated {{ site.time | date: '%Y/%m' }}.</p>
+    <p class="sidebar-footer">&copy; Last updated {{ site.time | date: '%Y' }}.</p>
   </div>
 
 
