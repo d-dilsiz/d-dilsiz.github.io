@@ -7,5 +7,5 @@ title: Research
 Work in Progress
 
 ### Freedom of Movement, Taxation and Job Mobility in Europe
-Work in Progress, co-authored with [Kurt Schmidheiny]([url]https://www.schmidheiny.name/) and [Davud Rostam-Afschar]([url](https://rostam-afschar.de/)
+Work in Progress, co-authored with [Kurt Schmidheiny](https://www.schmidheiny.name/) and [Davud Rostam-Afschar](https://rostam-afschar.de/)
 
