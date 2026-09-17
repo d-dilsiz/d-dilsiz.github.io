@@ -443,3 +443,11 @@ a.pagination-item:hover {
     border-bottom-right-radius: 4px;
   }
 }
+
+.social-icons {
+  font-size: 2rem;
+}
+
+.social-icons a + a {
+  margin-left: 0.6rem;
+}
