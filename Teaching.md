@@ -3,7 +3,7 @@ layout: page
 title: Teaching
 ---
 
-### Fall 2025
+### Fall 2026
 - [Econometrics](https://www.schmidheiny.name/teaching/unibas/econometrics/)
 
 ### Fall 2025
