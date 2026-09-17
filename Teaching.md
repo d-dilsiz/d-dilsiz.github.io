@@ -21,6 +21,6 @@ title: Teaching
 
 
 I am also supervising groups of bachelor students at writing and presenting their seminar papers:
-- [Scientific Work I](https://vorlesungsverzeichnis.unibas.ch/de/vorlesungsverzeichnis?id=289443)
+- [Scientific Work I](https://vorlesungsverzeichnis.unibas.ch/de/vorlesungsverzeichnis?id=301726)
 - [Scientific Work II](https://vorlesungsverzeichnis.unibas.ch/de/vorlesungsverzeichnis?id=284555)
   
